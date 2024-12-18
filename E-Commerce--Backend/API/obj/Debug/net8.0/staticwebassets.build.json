@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DS7y7AFv8eK2MTDwlhuOLk4qFwa6lzWpJjFNgq0JzCk=",
+  "Hash": "ULIJ2XOYjwXpvZT9/EtZNQUVuW7bQmOKqPjIc++E9PI=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-ang1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/boot-ang1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-ang2.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/boot-ang2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-core1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/boot-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-core1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-core2.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/boot-core2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-core2.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-redis1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-redis1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/boot-redis1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-code1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-code1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/glove-code1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\glove-code1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-code2.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-code2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/glove-code2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\glove-code2.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-react1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/glove-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\glove-react1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-react2.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/glove-react2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\glove-react2.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\hat-core1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\hat-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/hat-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\hat-core1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\hat-react1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\hat-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/hat-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\hat-react1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\hat-react2.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\hat-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/hat-react2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\hat-react2.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-ang1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/sb-ang1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-ang2.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/sb-ang2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-core1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/sb-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-core1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-core2.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/sb-core2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-core2.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-react1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/sb-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sb-react1.png"
     },
     {
-      "Identity": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-ts1.png",
+      "Identity": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-ts1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\ECommerce\\API\\wwwroot\\",
+      "ContentRoot": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/sb-ts1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -398,7 +398,7 @@
   "Endpoints": [
     {
       "Route": "Images/products/boot-ang1.frtmm817eo.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-ang1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -443,7 +443,7 @@
     },
     {
       "Route": "Images/products/boot-ang1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-ang1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -480,7 +480,7 @@
     },
     {
       "Route": "Images/products/boot-ang2.l2b72r3nnt.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-ang2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -525,7 +525,7 @@
     },
     {
       "Route": "Images/products/boot-ang2.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-ang2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -562,7 +562,7 @@
     },
     {
       "Route": "Images/products/boot-core1.owma62f65w.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-core1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -607,7 +607,7 @@
     },
     {
       "Route": "Images/products/boot-core1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-core1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -644,7 +644,7 @@
     },
     {
       "Route": "Images/products/boot-core2.et6a9ksqoo.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-core2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -689,7 +689,7 @@
     },
     {
       "Route": "Images/products/boot-core2.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-core2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -726,7 +726,7 @@
     },
     {
       "Route": "Images/products/boot-redis1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-redis1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-redis1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -763,7 +763,7 @@
     },
     {
       "Route": "Images/products/boot-redis1.w9hxokgnuo.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\boot-redis1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\boot-redis1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -808,7 +808,7 @@
     },
     {
       "Route": "Images/products/glove-code1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-code1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-code1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -845,7 +845,7 @@
     },
     {
       "Route": "Images/products/glove-code1.vfxg5rk1bq.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-code1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-code1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -890,7 +890,7 @@
     },
     {
       "Route": "Images/products/glove-code2.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-code2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-code2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -927,7 +927,7 @@
     },
     {
       "Route": "Images/products/glove-code2.r6vgnq84s8.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-code2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-code2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -972,7 +972,7 @@
     },
     {
       "Route": "Images/products/glove-react1.fll4p0n7rr.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-react1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1017,7 +1017,7 @@
     },
     {
       "Route": "Images/products/glove-react1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-react1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1054,7 +1054,7 @@
     },
     {
       "Route": "Images/products/glove-react2.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-react2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1091,7 +1091,7 @@
     },
     {
       "Route": "Images/products/glove-react2.pnwp3ppbru.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\glove-react2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\glove-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1136,7 +1136,7 @@
     },
     {
       "Route": "Images/products/hat-core1.i0uvoezabx.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\hat-core1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1181,7 +1181,7 @@
     },
     {
       "Route": "Images/products/hat-core1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\hat-core1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1218,7 +1218,7 @@
     },
     {
       "Route": "Images/products/hat-react1.hh4ccoh25u.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\hat-react1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1263,7 +1263,7 @@
     },
     {
       "Route": "Images/products/hat-react1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\hat-react1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1300,7 +1300,7 @@
     },
     {
       "Route": "Images/products/hat-react2.mbw62g7yl7.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\hat-react2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1345,7 +1345,7 @@
     },
     {
       "Route": "Images/products/hat-react2.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\hat-react2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1382,7 +1382,7 @@
     },
     {
       "Route": "Images/products/sb-ang1.gwbzmgtfei.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-ang1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1427,7 +1427,7 @@
     },
     {
       "Route": "Images/products/sb-ang1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-ang1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1464,7 +1464,7 @@
     },
     {
       "Route": "Images/products/sb-ang2.h3w3sxuihj.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-ang2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1509,7 +1509,7 @@
     },
     {
       "Route": "Images/products/sb-ang2.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-ang2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1546,7 +1546,7 @@
     },
     {
       "Route": "Images/products/sb-core1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-core1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1583,7 +1583,7 @@
     },
     {
       "Route": "Images/products/sb-core1.sgdiotq3ie.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-core1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1628,7 +1628,7 @@
     },
     {
       "Route": "Images/products/sb-core2.0l58ukt1bp.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-core2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1673,7 +1673,7 @@
     },
     {
       "Route": "Images/products/sb-core2.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-core2.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1710,7 +1710,7 @@
     },
     {
       "Route": "Images/products/sb-react1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-react1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1747,7 +1747,7 @@
     },
     {
       "Route": "Images/products/sb-react1.v6om9glro4.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-react1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1792,7 +1792,7 @@
     },
     {
       "Route": "Images/products/sb-ts1.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-ts1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1829,7 +1829,7 @@
     },
     {
       "Route": "Images/products/sb-ts1.uty9dayw0j.png",
-      "AssetFile": "E:\\ECommerce\\API\\wwwroot\\Images\\products\\sb-ts1.png",
+      "AssetFile": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\API\\wwwroot\\Images\\products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

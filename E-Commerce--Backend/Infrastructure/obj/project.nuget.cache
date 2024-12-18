@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iUMBtBYMHcY=",
+  "dgSpecHash": "64KZp2TXwbc=",
   "success": true,
-  "projectFilePath": "E:\\ECommerce\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\justb\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\justb\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

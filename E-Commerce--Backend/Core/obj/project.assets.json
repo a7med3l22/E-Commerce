@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ECommerce\\Core\\Core.csproj",
+      "projectUniqueName": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "E:\\ECommerce\\Core\\Core.csproj",
+      "projectPath": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\justb\\.nuget\\packages\\",
-      "outputPath": "E:\\ECommerce\\Core\\obj\\",
+      "outputPath": "E:\\E-Commerce Full Project\\E-Commerce--Backend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

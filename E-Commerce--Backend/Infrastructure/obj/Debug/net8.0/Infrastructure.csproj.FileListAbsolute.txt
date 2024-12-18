@@ -15,3 +15,21 @@ E:\ECommerce\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 E:\ECommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 E:\ECommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 E:\ECommerce\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\bin\Debug\net8.0\Core.dll
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\bin\Debug\net8.0\Core.pdb
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+E:\E-Commerce Full Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

@@ -1,15 +1,17 @@
 import { Component, OnInit } from '@angular/core';
 import { NavBarComponent } from './core/nav-bar/nav-bar.component';
 import { HttpClient } from '@angular/common/http';
-import { NgFor } from '@angular/common';
+import { CommonModule, NgFor } from '@angular/common';
 import { Product } from './shared/models/product';
 import { pagination } from './shared/models/paging';
 import { ShopComponent } from './shop/shop/shop.component';
 import { RouterOutlet } from '@angular/router';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';  // استيراد الأنيميشن
+import { BrowserModule } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-root',
-  imports: [NavBarComponent,RouterOutlet],
+  imports: [CommonModule,NavBarComponent,RouterOutlet],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
