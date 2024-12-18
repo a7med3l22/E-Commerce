@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ECommerce\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|e:\\ecommerce\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2514338C-8E14-4E97-AA06-DEBD4D4959EE}|..\\Core\\Core.csproj|e:\\ecommerce\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|e:\\ecommerce\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|solutionrelative:controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|e:\\ecommerce\\api\\helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|solutionrelative:helpers\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "E:\\ECommerce\\API\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BuggyController.cs",
+              "ToolTip": "E:\\ECommerce\\API\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "Controllers\\BuggyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:39:06.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "E:\\ECommerce\\API\\Helpers\\Pagination.cs",
+              "RelativeDocumentMoniker": "Helpers\\Pagination.cs",
+              "ToolTip": "E:\\ECommerce\\API\\Helpers\\Pagination.cs",
+              "RelativeToolTip": "Helpers\\Pagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:43:01.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\ECommerce\\API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "E:\\ECommerce\\API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:29:38.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ECommerce\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entities\\Product.cs",
+              "ToolTip": "E:\\ECommerce\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:58:42.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
