@@ -9,9 +9,12 @@ import { RouterLink } from '@angular/router';
   templateUrl: './product-item.component.html',
   styleUrl: './product-item.component.scss'
 })
-export class ProductItemComponent implements OnInit{
-  @Input() product?:Product;
+export class ProductItemComponent implements OnInit {
+  @Input() product?: Product;
+  constructor() { }
+
   ngOnInit(): void {
   }
+
 
 }

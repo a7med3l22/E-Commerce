@@ -7,11 +7,12 @@ import { ToastrModule } from 'ngx-toastr';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { errorInterceptor } from './app/core/intersectors/error.interceptor';
 import { importProvidersFrom } from '@angular/core';
+import { loadingInterceptor } from './app/core/intersectors/loading.interceptor';
 
 bootstrapApplication(AppComponent, {
   providers: [
     provideHttpClient(
-      withInterceptors([errorInterceptor]) // Use the interceptor directly here
+      withInterceptors([loadingInterceptor,errorInterceptor]) // Use the interceptor directly here
     ),
     provideRouter(routes),  // Provide Router with the defined routes
     importProvidersFrom(BrowserAnimationsModule),  // Required for ngx-toastr animations

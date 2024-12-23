@@ -5,11 +5,13 @@ import { CoreRoutingModule } from './core-routing.module';
 import { RouterModule } from '@angular/router';
 import { ToastrModule } from 'ngx-toastr';
 import { BreadcrumbComponent } from 'xng-breadcrumb';
+import { NgxSpinnerModule } from 'ngx-spinner';
 
 
 @NgModule({
   declarations: [],
   imports: [
+    NgxSpinnerModule,
     BreadcrumbComponent,
     CommonModule,
     CoreRoutingModule,
@@ -21,5 +23,6 @@ import { BreadcrumbComponent } from 'xng-breadcrumb';
 }
     )
   ],
+  exports:[NgxSpinnerModule]
 })
 export class CoreModule { }
