@@ -4,6 +4,7 @@ using Infrastructure;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using StackExchange.Redis;
 
 namespace API
 {
@@ -22,10 +23,16 @@ namespace API
 			{
 				opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
 			});
+			builder.Services.AddScoped<IBasketRepository, BasketRepository>();
 			builder.Services.AddScoped<IProductRepository, ProductRepository>();
 			builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 			builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
+			// Register ConnectionMultiplexer
+			builder.Services.AddSingleton<IConnectionMultiplexer>(sp =>
+			{
+				var configuration = builder.Configuration.GetConnectionString("Redis");
+				return ConnectionMultiplexer.Connect(configuration);
+			});
 			// Add CORS Policy
 			builder.Services.AddCors(opt =>
 			{

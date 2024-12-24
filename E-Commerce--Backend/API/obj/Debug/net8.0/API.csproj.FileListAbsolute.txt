@@ -675,3 +675,6 @@ E:\Full E-commerce Project\E-Commerce--Backend\API\obj\Debug\net8.0\refint\API.d
 E:\Full E-commerce Project\E-Commerce--Backend\API\obj\Debug\net8.0\API.pdb
 E:\Full E-commerce Project\E-Commerce--Backend\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 E:\Full E-commerce Project\E-Commerce--Backend\API\obj\Debug\net8.0\ref\API.dll
+E:\Full E-commerce Project\E-Commerce--Backend\API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\Full E-commerce Project\E-Commerce--Backend\API\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\Full E-commerce Project\E-Commerce--Backend\API\obj\Debug\net8.0\API.sourcelink.json

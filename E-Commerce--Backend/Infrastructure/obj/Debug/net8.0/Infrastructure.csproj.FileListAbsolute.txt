@@ -67,3 +67,4 @@ E:\Full E-commerce Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\r
 E:\Full E-commerce Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 E:\Full E-commerce Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 E:\Full E-commerce Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+E:\Full E-commerce Project\E-Commerce--Backend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
