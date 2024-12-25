@@ -1,3 +1,5 @@
+import cuid from "cuid";
+
 export interface BasketItem{
 
     id:number;
@@ -14,6 +16,6 @@ export interface Basket{
     items:BasketItem[];
 }
 export class Basket implements Basket{
-    id="ahmed";
+    id=cuid();
     items: BasketItem[]=[];
 }
