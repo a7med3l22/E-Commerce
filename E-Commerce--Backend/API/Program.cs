@@ -23,7 +23,6 @@ namespace API
 			{
 				opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
 			});
-			builder.Services.AddSingleton<IConnectionMultiplexer, ConnectionMultiplexer>();	
 			builder.Services.AddScoped<IBasketRepository, BasketRepository>();
 			builder.Services.AddScoped<IProductRepository, ProductRepository>();
 			builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
