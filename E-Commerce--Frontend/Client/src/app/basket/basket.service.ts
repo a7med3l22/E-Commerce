@@ -2,9 +2,9 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { BehaviorSubject, map } from 'rxjs';
 import { Basket, BasketItem, BasketTotals } from '../shared/models/basket';
-import { Product } from '../shared/models/product';
-import { environment } from '../../environments/environment.development';
 import { DeliveryMethod } from '../shared/models/deliveryMethod';
+import { Product } from '../shared/models/product';
+import { environment } from '../../environments/environment';
 
 @Injectable({
   providedIn: 'root'

@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { BasketService } from '../basket.service';
-import { BasketItem } from '../../shared/models/basket';
-import { CommonModule, NgFor, NgIf } from '@angular/common';
+import { CommonModule, NgIf } from '@angular/common';
 import { BasketSummaryComponent } from '../../shared/basket-summary/basket-summary.component';
 import { OrderTotalsComponent } from '../../shared/order-totals/order-totals.component';
+import { BasketItem } from '../../shared/models/basket';
 
 @Component({
   selector: 'app-basket',

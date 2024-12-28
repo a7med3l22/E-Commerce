@@ -21,7 +21,7 @@ import { BasketService } from './basket/basket.service';
 export class AppComponent implements OnInit {
   title = 'Store Application';
   constructor(private http: HttpClient,private basketService:BasketService) {}
-  products:any[]=[]
+  products: Product[] = [];
   ngOnInit(): void {
     this.http.get<pagination<Product[]>>('https://localhost:44395/api/Product?pagesize=50').subscribe({
      next:(response)=>{

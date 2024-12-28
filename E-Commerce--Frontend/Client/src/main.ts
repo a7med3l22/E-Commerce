@@ -6,9 +6,12 @@ import { routes } from './app/app.routes'; // Import your routes
 import { ToastrModule } from 'ngx-toastr';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { errorInterceptor } from './app/core/intersectors/error.interceptor';
-import { importProvidersFrom } from '@angular/core';
+import { enableProdMode, importProvidersFrom } from '@angular/core';
 import { loadingInterceptor } from './app/core/intersectors/loading.interceptor';
-
+import { environment } from './environments/environment';
+if (environment.production) {
+  enableProdMode();
+}
 bootstrapApplication(AppComponent, {
   providers: [
     provideHttpClient(
@@ -19,3 +22,4 @@ bootstrapApplication(AppComponent, {
     importProvidersFrom(ToastrModule.forRoot()),   // Correct way to initialize ToastrModule
   ],
 }).catch(err => console.error(err));
+

@@ -410,6 +410,23 @@
               "$ref": "#/components/schemas/BasketItem"
             },
             "nullable": true
+          },
+          "deliveryMethodId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "clientSecret": {
+            "type": "string",
+            "nullable": true
+          },
+          "paymentIntentId": {
+            "type": "string",
+            "nullable": true
+          },
+          "shippingPrice": {
+            "type": "number",
+            "format": "double"
           }
         },
         "additionalProperties": false
