@@ -10,6 +10,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations'; 
 import { BrowserModule } from '@angular/platform-browser';
 import { SectionHeaderComponent } from "./core/section-header/section-header.component";
 import { NgxSpinner, NgxSpinnerModule } from 'ngx-spinner';
+import { BasketService } from './basket/basket.service';
 
 @Component({
   selector: 'app-root',
@@ -19,7 +20,7 @@ import { NgxSpinner, NgxSpinnerModule } from 'ngx-spinner';
 })
 export class AppComponent implements OnInit {
   title = 'Store Application';
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient,private basketService:BasketService) {}
   products:any[]=[]
   ngOnInit(): void {
     this.http.get<pagination<Product[]>>('https://localhost:44395/api/Product?pagesize=50').subscribe({
@@ -35,5 +36,7 @@ export class AppComponent implements OnInit {
       console.log("extra statments")
      }
     });
+    const basketId=localStorage.getItem("basket_Id");
+    if(basketId) this.basketService.getBasket(basketId);
   }
 }
