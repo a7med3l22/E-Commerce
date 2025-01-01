@@ -3,6 +3,7 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
 import { BasketItem } from '../../shared/models/basket';
 import { CommonModule, NgIf } from '@angular/common';
 import { BasketService } from '../../basket/basket.service';
+import { AccountService } from '../../account/account.service';
 
 @Component({
   selector: 'app-nav-bar',
@@ -12,7 +13,7 @@ import { BasketService } from '../../basket/basket.service';
 })
 export class NavBarComponent implements OnInit {
 
-  constructor(public basketService:BasketService) { }
+  constructor(public basketService:BasketService,public accountService:AccountService) { }
 
   ngOnInit(): void {
   }
