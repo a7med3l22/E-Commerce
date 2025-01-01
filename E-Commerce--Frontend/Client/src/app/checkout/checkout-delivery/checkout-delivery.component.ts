@@ -4,10 +4,11 @@ import { DeliveryMethod } from '../../shared/models/deliveryMethod';
 import { BasketService } from '../../basket/basket.service';
 import { CheckoutService } from '../checkout.service';
 import { CommonModule, NgFor, NgIf } from '@angular/common';
+import { CdkStepperModule } from '@angular/cdk/stepper';
 
 @Component({
   selector: 'app-checkout-delivery',
-  imports: [NgIf,NgFor,ReactiveFormsModule,CommonModule],
+  imports: [NgIf,NgFor,ReactiveFormsModule,CommonModule,CdkStepperModule],
   templateUrl: './checkout-delivery.component.html',
   styleUrl: './checkout-delivery.component.scss'
 })

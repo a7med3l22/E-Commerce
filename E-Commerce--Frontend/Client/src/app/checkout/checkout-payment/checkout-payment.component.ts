@@ -11,12 +11,13 @@ import { OrderToCreate } from '../../shared/models/order';
 import { CommonModule, NgIf } from '@angular/common';
 import { StripeElementChangeEvent } from '@stripe/stripe-js'; // Import the type
 import { Address } from '../../shared/models/user';
+import { CdkStepperModule } from '@angular/cdk/stepper';
 
 @Component({
   selector: 'app-checkout-payment',
   templateUrl: './checkout-payment.component.html',
   styleUrls: ['./checkout-payment.component.scss'],
-  imports:[NgIf,ReactiveFormsModule]
+  imports:[NgIf,ReactiveFormsModule,CdkStepperModule]
 })
 export class CheckoutPaymentComponent implements OnInit {
   @Input() checkoutForm?:FormGroup;

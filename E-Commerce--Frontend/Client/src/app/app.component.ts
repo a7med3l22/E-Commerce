@@ -11,6 +11,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { SectionHeaderComponent } from "./core/section-header/section-header.component";
 import { NgxSpinner, NgxSpinnerModule } from 'ngx-spinner';
 import { BasketService } from './basket/basket.service';
+import { AccountService } from './account/account.service';
 
 @Component({
   selector: 'app-root',
@@ -18,25 +19,31 @@ import { BasketService } from './basket/basket.service';
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
+
 export class AppComponent implements OnInit {
-  title = 'Store Application';
-  constructor(private http: HttpClient,private basketService:BasketService) {}
+  constructor(private http:HttpClient,private basketService:BasketService,private accountService:AccountService) {
+
+   }
   products: Product[] = [];
+
   ngOnInit(): void {
-    this.http.get<pagination<Product[]>>('https://localhost:44395/api/Product?pagesize=50').subscribe({
-     next:(response)=>{
-      console.log(response);
-      this.products=response.data
-     }
-    ,
-     error:error=>console.log(error),
-     complete:()=>
-     {
-      console.log("request completed")
-      console.log("extra statments")
-     }
-    });
-    const basketId=localStorage.getItem("basket_Id");
+    this.http.get<pagination<Product[]>>('https://localhost:7125/api/product?pageSize=50').subscribe({
+      next: response => this.products = response.data,
+      error: error => console.log(error), 
+      complete: () => {
+        console.log('request completed');
+        console.log('extra statment');
+      }
+    })
+    const basketId= localStorage.getItem("basket_Id");
     if(basketId) this.basketService.getBasket(basketId);
+    this.loadCurrentUser();
+  }
+  title = 'Shopping';
+
+  loadCurrentUser()
+  {
+    const token= localStorage.getItem('token');
+    this.accountService.loadCurrentUser(token).subscribe();
   }
 }

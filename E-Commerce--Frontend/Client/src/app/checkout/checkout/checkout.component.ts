@@ -8,13 +8,13 @@ import { CheckoutPaymentComponent } from '../checkout-payment/checkout-payment.c
 import { CheckoutAddressComponent } from '../checkout-address/checkout-address.component';
 import { CheckoutReviewComponent } from '../checkout-review/checkout-review.component';
 import { CheckoutDeliveryComponent } from '../checkout-delivery/checkout-delivery.component';
-import { CdkStep } from '@angular/cdk/stepper';
+import { CdkStep, CdkStepperModule } from '@angular/cdk/stepper';
 
 @Component({
   selector: 'app-checkout',
   templateUrl: './checkout.component.html',
   styleUrls: ['./checkout.component.scss'],
-  imports:[StepperComponent,OrderTotalsComponent,CheckoutPaymentComponent,CheckoutAddressComponent,CheckoutReviewComponent,CheckoutDeliveryComponent,CdkStep]
+  imports:[StepperComponent,OrderTotalsComponent,CheckoutPaymentComponent,CheckoutAddressComponent,CheckoutReviewComponent,CheckoutDeliveryComponent,CdkStep,CdkStepperModule]
 })
 export class CheckoutComponent implements OnInit {
 

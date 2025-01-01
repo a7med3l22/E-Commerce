@@ -1,7 +1,19 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Full E-commerce Project\\E-Commerce--Backend\\API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|e:\\full e-commerce project\\e-commerce--backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|e:\\full e-commerce project\\e-commerce--backend\\api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399558FB-283A-4E3B-A070-14C5D564075D}|API.csproj|solutionrelative:controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77051913-B0C4-44F9-8FC0-743409635BED}|..\\Infrastructure\\Infrastructure.csproj|e:\\full e-commerce project\\e-commerce--backend\\infrastructure\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +34,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Full E-commerce Project\\E-Commerce--Backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Full E-commerce Project\\E-Commerce--Backend\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:42:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "E:\\Full E-commerce Project\\E-Commerce--Backend\\API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BasketController.cs",
+              "ToolTip": "E:\\Full E-commerce Project\\E-Commerce--Backend\\API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:55:15.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "E:\\Full E-commerce Project\\E-Commerce--Backend\\Infrastructure\\Data\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\BasketRepository.cs",
+              "ToolTip": "E:\\Full E-commerce Project\\E-Commerce--Backend\\Infrastructure\\Data\\BasketRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Data\\BasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:54:03.232Z"
             }
           ]
         }

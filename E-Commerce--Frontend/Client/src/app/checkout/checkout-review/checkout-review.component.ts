@@ -1,12 +1,12 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { BasketService } from '../../basket/basket.service';
 import { ToastrService } from 'ngx-toastr';
-import { CdkStepper } from '@angular/cdk/stepper';
+import { CdkStepper, CdkStepperModule } from '@angular/cdk/stepper';
 import { BasketSummaryComponent } from '../../shared/basket-summary/basket-summary.component';
 
 @Component({
   selector: 'app-checkout-review',
-  imports: [BasketSummaryComponent],
+  imports: [BasketSummaryComponent,CdkStepperModule],
   templateUrl: './checkout-review.component.html',
   styleUrl: './checkout-review.component.scss'
 })
