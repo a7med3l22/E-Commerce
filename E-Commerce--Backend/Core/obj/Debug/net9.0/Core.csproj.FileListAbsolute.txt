@@ -1,0 +1,13 @@
+E:\Full E-commerce Project\E-Commerce--Backend\Core\bin\Debug\net9.0\Core.deps.json
+E:\Full E-commerce Project\E-Commerce--Backend\Core\bin\Debug\net9.0\Core.dll
+E:\Full E-commerce Project\E-Commerce--Backend\Core\bin\Debug\net9.0\Core.pdb
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\Core.sourcelink.json
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\Core.dll
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\refint\Core.dll
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\Core.pdb
+E:\Full E-commerce Project\E-Commerce--Backend\Core\obj\Debug\net9.0\ref\Core.dll

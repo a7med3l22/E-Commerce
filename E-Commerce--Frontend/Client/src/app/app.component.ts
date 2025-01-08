@@ -27,7 +27,7 @@ export class AppComponent implements OnInit {
   products: Product[] = [];
 
   ngOnInit(): void {
-    this.http.get<pagination<Product[]>>('https://localhost:7125/api/product?pageSize=50').subscribe({
+    this.http.get<pagination<Product[]>>('https://localhost:44395/api/product?pageSize=50').subscribe({
       next: response => this.products = response.data,
       error: error => console.log(error), 
       complete: () => {
