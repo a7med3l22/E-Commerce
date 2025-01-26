@@ -6,11 +6,13 @@ import { RouterModule } from '@angular/router';
 import { ToastrModule } from 'ngx-toastr';
 import { BreadcrumbComponent } from 'xng-breadcrumb';
 import { NgxSpinnerModule } from 'ngx-spinner';
+import { SharedModule } from '../shared/shared.module';
 
 
 @NgModule({
   declarations: [],
   imports: [
+    SharedModule,
     NgxSpinnerModule,
     BreadcrumbComponent,
     CommonModule,

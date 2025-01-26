@@ -4,10 +4,11 @@ import { BasketItem } from '../../shared/models/basket';
 import { CommonModule, NgIf } from '@angular/common';
 import { BasketService } from '../../basket/basket.service';
 import { AccountService } from '../../account/account.service';
+import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 
 @Component({
   selector: 'app-nav-bar',
-  imports: [RouterLink,RouterLinkActive,NgIf,CommonModule],
+  imports: [RouterLink,RouterLinkActive,NgIf,CommonModule,BsDropdownModule],
   templateUrl: './nav-bar.component.html',
   styleUrl: './nav-bar.component.scss'
 })
